@@ -4,7 +4,6 @@
 #include <assert.h>
 #include "ansicolors.h"
 
-const char author[] = ANSI_BOLD ANSI_COLOR_RED "" ANSI_RESET;
 
 /*
  * The following helpers can be used to interact with the memory_block_t
