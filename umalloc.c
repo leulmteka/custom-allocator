@@ -11,7 +11,7 @@ const char author[] = ANSI_BOLD ANSI_COLOR_RED "" ANSI_RESET;
  * struct, they can be adjusted as necessary.
  */
 
-// A sample pointer to the start of the free list.
+
 memory_block_t *free_head;
 
 /*
